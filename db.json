@@ -1,0 +1,7 @@
+{
+  "POSTS": [
+    { "id": 1, "title": "Learn vite" },
+    { "id": 2, "title": "Learn React" },
+    { "id": 3, "title": "Learn TanStack" }
+  ]
+}
